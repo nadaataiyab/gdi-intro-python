@@ -1,5 +1,5 @@
 # gdi-intro-python
-Intro to Python course for Girl Develop It in Phoenix, AZ. 
+##Intro to Python course for Girl Develop It in Phoenix, AZ. 
 
 Welcome to Introduction to Python for Girl Develop It! Today we are going to be covering the basics of Python and doing lots of fun coding exercise. 
 
