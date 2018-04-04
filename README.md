@@ -10,7 +10,12 @@ The easiest way to install Jupyter notebook is to download the Anaconda Distribu
 
 To open Jupyter notebook find the "Terminal" program on your computer and type "Jupyter Notebook". It will open a window in your browser with your directories. Select the directory you want to use for the class and create a new notebook. You are ready to code!
 
-### Course Outline
+### Lecture Notes and Solutions
+The lecture notes, which include the exercises, and solutions can be found in the Lectures folder in this repo. 
+
+### Credits
+The lecture portion draws very heavily on Caleb Smith's [Intro to Python Course for Girl Developit] (http://calebsmith.github.io/gdi-intro-python/citycamp/#/slide-content)
+Many of the exercises are original or inspired by something I might have seen on the web. 
 
 
 
